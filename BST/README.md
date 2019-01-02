@@ -1,6 +1,6 @@
 # Binary Search Tree (C++)
 
-## his is an implemenation of a templated Binary Search Tree with custom iterator class. 
+## Implemenation of a templated Binary Search Tree with custom iterator class. 
 
 * Member functions of BST class: 
  	* insert
